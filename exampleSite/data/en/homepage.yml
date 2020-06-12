@@ -4,8 +4,7 @@ banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: true
   title: Custom Mechanical Keyboards <br/>
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  content: Designs that will keep you up at night.
   button:
     enable: true
     label: Current Projects
