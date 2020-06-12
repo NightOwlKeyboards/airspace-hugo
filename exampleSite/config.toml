@@ -1,4 +1,4 @@
-baseURL = "https://nightowlkeyboards-test.netlify.app"
+baseURL = "https://nightowlkeyboards.com"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "4"
