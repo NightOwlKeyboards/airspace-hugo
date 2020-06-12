@@ -48,29 +48,9 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "project"
-name = "Project"
+URL = "projects"
+name = "Projects"
 weight = 2
-[[menu.main]]
-URL = "service"
-name = "Service"
-weight = 3
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 5
-[[menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
