@@ -20,29 +20,29 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.footer]]
-URL = "projects"
-name = "Projects"
-weight = 2
-[[menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 6
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.main]]
+weight = 3
+[[menu.footer]]
 URL = "projects"
 name = "Projects"
+weight = 1
+[[menu.footer]]
+URL = "about"
+name = "About"
 weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = 3
+[[menu.main]]
+URL = "projects"
+name = "Projects"
+weight = 1
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
 [params]
 author = "Themefisher"
 contact_form_action = "#"
