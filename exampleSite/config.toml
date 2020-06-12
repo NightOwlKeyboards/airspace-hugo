@@ -90,7 +90,7 @@ preloader = ""
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
 icon = "ion-social-instagram-outline"
-link = "instagram.com/nightowlkeyboards"
+link = "https://www.instagram.com/nightowlkeyboards"
 [[params.social]]
 icon = "ion-social-twitter-outline"
 link = "#twitter.com/nightowlkb"
