@@ -25,7 +25,7 @@ sections:
 - type: heading
   label: Projects
 - type: directory
-  path: exampleSite/content/english/projects
+  path: exampleSite/content/english/project
   label: Projects (en)
   create: documents
   match: "**/*"
