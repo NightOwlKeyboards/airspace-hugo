@@ -8,8 +8,8 @@ banner:
     deliver  the best possible solutions for their needs
   button:
     enable: true
-    label: Discover Our Project
-    link: project
+    label: Current Projects
+    link: projects
 about:
   enable: true
   title: About Us
