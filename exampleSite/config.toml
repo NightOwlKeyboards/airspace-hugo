@@ -78,12 +78,12 @@ weight = 6
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-description = "This is meta description"
+description = ""
 email = "demo@email.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "Austin, TX"
 logo = "/images/nightowllogocomboleft_adjust_grayscale_header.png"
-mobile = "0124857985320"
+mobile = ""
 multi_author = false
 [params.gmap]
 enable = true
