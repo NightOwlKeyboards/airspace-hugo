@@ -1,6 +1,6 @@
 ---
 title: Drop Us A Note
-description: this is meta description
+description: ''
 bg_image: ''
 
 ---
