@@ -1,7 +1,7 @@
 +++
 bg_image = ""
 description = "Test"
-title = "Projects (en)"
+title = "Projects (edit)"
 
 +++
-Test This is Projects (en)
+Test This is Projects (edit)
