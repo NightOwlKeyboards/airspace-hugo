@@ -10,7 +10,7 @@ sections:
   path: exampleSite/content/english/projects
   label: Projects (en)
   create: documents
-  match: "**/*"
+  match: "*"
   templates:
   - project
 - type: directory
