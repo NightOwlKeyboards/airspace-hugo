@@ -16,3 +16,4 @@ fields:
   description: page header background image
 pages:
 - exampleSite/content/english/pages/projects.md
+- exampleSite/content/english/projects.md
