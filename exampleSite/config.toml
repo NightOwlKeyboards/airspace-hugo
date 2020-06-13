@@ -87,7 +87,7 @@ link = "plugins/google-map/gmap.js"
 enable = true
 preloader = ""
 [params.widgets]
-sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
+sidebar = []
 [[params.social]]
 icon = "ion-social-instagram-outline"
 link = "https://www.instagram.com/nightowlkeyboards"
