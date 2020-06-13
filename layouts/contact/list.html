@@ -42,7 +42,7 @@
           </ul>
           <ul class="social-icons">
             {{ range .Site.Params.social }}
-            <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+            <li><a href="{{ .link | safeURL }}" target="_self"><i class="{{ .icon }}"></i></a></li>
             {{ end }}
           </ul>
         </div>
