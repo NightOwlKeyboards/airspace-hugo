@@ -5,16 +5,14 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Projects
+  label: Pages
 - type: directory
-  path: exampleSite/content/english/project
-  label: Project (en)
+  path: exampleSite/content/english/projects
+  label: Projects (en)
   create: documents
   match: "**/*"
   templates:
   - project
-- type: heading
-  label: Others Pages
 - type: directory
   path: exampleSite/content/english/about
   label: About (en)
