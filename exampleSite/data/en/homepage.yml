@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: Current Projects
-    link: "#projects"
+    link: projects
 about:
   enable: true
   title: About Us
