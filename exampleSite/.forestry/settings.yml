@@ -5,24 +5,6 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Blog Post
-- type: directory
-  path: exampleSite/content/english/blog
-  label: Post (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - post
-- type: heading
-  label: Author
-- type: directory
-  path: exampleSite/content/english/author
-  label: Author (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
-- type: heading
   label: Projects
 - type: directory
   path: exampleSite/content/english/project
@@ -36,21 +18,6 @@ sections:
 - type: directory
   path: exampleSite/content/english/about
   label: About (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/service
-  label: Service (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/pricing
-  label: Pricing (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/faq
-  label: FAQ (en)
   create: none
   match: "*"
 - type: directory
