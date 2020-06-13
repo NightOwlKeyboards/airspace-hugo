@@ -89,6 +89,9 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
+icon = "ion-social-discord-outline"
+link = "discord.com"
+[[params.social]]
 icon = "ion-social-instagram-outline"
 link = "https://www.instagram.com/nightowlkeyboards"
 [[params.social]]
