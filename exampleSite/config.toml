@@ -56,8 +56,8 @@ multi_author = false
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "30.2657237"
-map_longitude = "-97.7447818"
+map_latitude = "30.2724374"
+map_longitude = "-97.7446826"
 map_marker = "images/marker.png"
 [params.nav_button]
 enable = true
@@ -89,9 +89,6 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "ion-social-discord-outline"
-link = "discord.com"
-[[params.social]]
 icon = "ion-social-instagram-outline"
 link = "https://www.instagram.com/nightowlkeyboards"
 [[params.social]]
@@ -100,3 +97,6 @@ link = "twitter.com/nightowlkb"
 [[params.social]]
 icon = "ion-social-facebook-outline"
 link = "#"
+[[params.social]]
+icon = "ion-social-discord-outline"
+link = "discord.com"
