@@ -60,7 +60,7 @@ map_latitude = "30.2724374"
 map_longitude = "-97.7446826"
 map_marker = "images/marker.png"
 [params.nav_button]
-enable = true
+enable = false
 label = "Get A Quote"
 link = "contact"
 [[params.plugins.css]]
