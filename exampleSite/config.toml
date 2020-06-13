@@ -20,25 +20,29 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 3
-[[menu.footer]]
 URL = "about"
 name = "About"
+weight = 1
+[[menu.footer]]
+URL = "projects"
+name = "Projects"
 weight = 2
-[[menu.main]]
+[[menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 3
+weight = 6
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
 [[menu.main]]
 URL = "projects"
 name = "Projects"
-weight = 1
-[[menu.main]]
-URL = "about"
-name = "About"
 weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 6
 [params]
 author = "Themefisher"
 contact_form_action = "#"
@@ -53,7 +57,7 @@ multi_author = false
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 map_latitude = "30.2657237"
-map_longitude = "-97.7447818,14.75z"
+map_longitude = "-97.7447818"
 map_marker = "images/marker.png"
 [params.nav_button]
 enable = true
