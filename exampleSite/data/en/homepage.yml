@@ -7,7 +7,7 @@ banner:
   content: Designs that will keep you up at night.
   button:
     enable: true
-    label: Current Projects
+    label: Browse Projects
     link: projects
 about:
   enable: true
