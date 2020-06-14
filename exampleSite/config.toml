@@ -98,5 +98,5 @@ link = "https://www.twitter.com/nightowlkb"
 icon = "ion-social-facebook-outline"
 link = "https://www.facebook.com/nightowlkeyboards"
 [[params.social]]
-icon = "ion-social-discord-outline"
+icon = "images/discord-logo-black.svg"
 link = "discord.com"
