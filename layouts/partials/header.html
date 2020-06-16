@@ -28,12 +28,12 @@
                   aria-expanded="false">{{ .Name }} <span class="ion-ios-arrow-down"></span></a>
                 <ul class="dropdown-menu">
                   {{ range .Children }}
-                  <li><a href="{{ .URL | absLangURL }}">{{ .Name }}{{ .Pre }}</a></li>
+                  <li><a href="{{ .URL | absLangURL }}">{{ .Name }}<span class="ion-ios-arrow-down"></span></a></li>
                   {{ end }}
                 </ul>
               </li>
               {{ else }}
-              <li><a href="{{ .URL | absLangURL }}">{{ .Name }}{{ .pre }}</a></li>
+              <li><a href="{{ .URL | absLangURL }}">{{ .Name }}<span class="ion-ios-arrow-down"></span></a></li>
               {{ end }}
               {{ end }}
               
