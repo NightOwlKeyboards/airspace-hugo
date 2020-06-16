@@ -36,13 +36,17 @@ URL = "projects"
 name = "Projects"
 weight = 1
 [[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 3
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
+URL = "instagram.com/nightowlkeyboards"
+name = "Instagram"
+weight = 4
 [params]
 author = "Themefisher"
 contact_form_action = "#"
