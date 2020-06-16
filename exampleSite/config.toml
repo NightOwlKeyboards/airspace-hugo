@@ -46,6 +46,7 @@ weight = 3
 [[menu.main]]
 URL = "instagram.com/nightowlkeyboards"
 name = "Instagram"
+icon = "ion-social-instagram-outline"
 weight = 4
 [params]
 author = "Themefisher"
