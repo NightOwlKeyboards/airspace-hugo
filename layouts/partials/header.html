@@ -33,7 +33,7 @@
                 </ul>
               </li>
               {{ else }}
-              <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+              <li><a href="{{ .URL | absLangURL }}">{{ .Name }}<i class="{{ .pre }}"></i></a></li>
               {{ end }}
               {{ end }}
               
