@@ -36,7 +36,6 @@ URL = "projects"
 name = "Projects"
 weight = 1
 [[menu.main]]
-icon = "ion-social-instagram-outline"
 URL = "contact"
 name = "Contact"
 weight = 3
