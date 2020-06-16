@@ -36,14 +36,10 @@
               </li>
               {{ else }}
               <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+                                      {{ range .Site.Params.social }}
+                                      <li><a href="{{ .link | safeURL }}" target="_blank"><i class="{{ .icon }}"></i></a></li>
               {{ end }}
               {{ end }}
-
-                        <ul class="social-icons">
-                        {{ range .Site.Params.social }}
-                        <li><a href="{{ .link | safeURL }}" target="_blank"><i class="{{ .icon }}"></i></a></li>
-                        {{ end }}
-                        </ul>
               
               <!-- Language List -->
               {{- if .Site.IsMultiLingual }}
