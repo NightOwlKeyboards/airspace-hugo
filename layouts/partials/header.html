@@ -28,7 +28,7 @@
                   aria-expanded="false">{{ .Name }} <span class="ion-ios-arrow-down"></span></a>
                 <ul class="dropdown-menu">
                   {{ range .Children }}
-                  <li><a href="{{ .URL | absLangURL }}">{{ .Name }}<img src="{{ .icon }}></a></li>
+                  <li><a href="{{ .URL | absLangURL }}">{{ .Name }}<img src="{{ .icon }}"></a></li>
                   {{ end }}
                 </ul>
               </li>
