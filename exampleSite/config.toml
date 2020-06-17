@@ -43,10 +43,6 @@ weight = 2
 URL = "contact"
 name = "Contact"
 weight = 3
-[[menu.main]]
-URL = "instagram.com/nightowlkeyboards"
-name = "Instagram"
-weight = 4
 [params]
 author = "Themefisher"
 contact_form_action = "#"
