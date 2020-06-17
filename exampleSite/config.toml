@@ -110,13 +110,13 @@ preloader = ""
 sidebar = []
 [[params.social]]
 icon = "instagram"
-link = "https://www.instagram.com/nightowlkeyboards"
+link = "https://instagram.com/nightowlkeyboards"
 [[params.social]]
 icon = "twitter"
-link = "https://www.twitter.com/nightowlkb"
+link = "https://twitter.com/nightowlkb"
 [[params.social]]
 icon = "facebook-f"
-link = "https://www.facebook.com/nightowlkeyboards"
+link = "https://facebook.com/nightowlkeyboards"
 [[params.social]]
 icon = "discord"
 link = "https://discord.gg/mG2tB83"
