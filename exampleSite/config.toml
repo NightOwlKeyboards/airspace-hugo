@@ -35,7 +35,7 @@ weight = 2
 URL = "Instagram"
 name = "Instagram"
 weight = "4"
-pre = "Instagram"
+pre = "instagram"
 [[menu.main]]
 URL = "projects"
 name = "Projects"
