@@ -28,7 +28,13 @@
                   aria-expanded="false">{{ .Name }} <span class="ion-ios-arrow-down"></span></a>
                 <ul class="dropdown-menu">
                   {{ range .Children }}
-                  <li><a href="{{ .URL | absLangURL }}">{{ .Name }}{{ partial "fontawesome.html" ".Name" }}</a></li>
+                    <li>
+                    {{ if .Pre }}
+                    <a title="{{ .Name }}" href="{{ .URL | absLangURL }}">{{ partial "fontawesome.html" .Pre }}</a>
+                    {{ else }}
+                    <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                    {{ end }}
+                    </li>
                   {{ end }}
 
                 </ul>
