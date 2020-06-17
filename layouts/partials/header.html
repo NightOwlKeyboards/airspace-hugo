@@ -36,13 +36,11 @@
               {{ else }}
               <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
               
+              {{ end }}
+              {{ end }}
                                 {{ range .Site.Params.social }}
-                  <li><a href="{{ .link | safeURL }}" target="_blank">{{ partial "fontawesome.html" "facebook-f" }}</a></li>
+                  <li><a href="{{ .link | safeURL }}" target="_blank">{{ partial "fontawesome.html" " .icon" }}</a></li>
                   {{ end }}
-              
-              {{ end }}
-              {{ end }}
-
             </ul>
           </div><!-- /.navbar-collapse -->
         </nav>
