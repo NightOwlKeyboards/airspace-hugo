@@ -32,11 +32,6 @@ URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
-URL = "Instagram"
-name = "Instagram"
-weight = "4"
-pre = "instagram"
-[[menu.main]]
 URL = "projects"
 name = "Projects"
 weight = 1
@@ -48,6 +43,26 @@ weight = 2
 URL = "contact"
 name = "Contact"
 weight = 3
+[[menu.main]]
+URL = "https://instagram.com/nightowlkeyboards"
+name = "Instagram"
+weight = "4"
+pre = "instagram"
+[[menu.main]]
+URL = "https://twitter.com/nightowlkb"
+name = "Twitter"
+weight = "5"
+pre = "twitter"
+[[menu.main]]
+URL = "https://facebook.com/nightowlkeyboards"
+name = "Facebook"
+weight = "6"
+pre = "facebook-f"
+[[menu.main]]
+URL = "https://discord.gg/mG2tB83"
+name = "Discord"
+weight = "7"
+pre = "discord"
 [params]
 author = "Themefisher"
 contact_form_action = "#"
