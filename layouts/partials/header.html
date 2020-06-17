@@ -28,7 +28,7 @@
                   aria-expanded="false">{{ .Name }} <span class="ion-ios-arrow-down"></span></a>
                 <ul class="dropdown-menu">
                   {{ range .Children }}
-                  <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+                  <li><a href="{{ .URL | absLangURL }}">{{ .Name }}{{ partial "fontawesome.html" ".Name" }}</a></li>
                   {{ end }}
 
                 </ul>
@@ -38,9 +38,7 @@
               
               {{ end }}
               {{ end }}
-                                {{ range .Site.Params.social }}
-                  <li><a href="{{ .link | safeURL }}" target="_blank">{{ partial "fontawesome.html" " .Site.Params.social.icon " }}</a></li>
-                  {{ end }}
+
             </ul>
           </div><!-- /.navbar-collapse -->
         </nav>
