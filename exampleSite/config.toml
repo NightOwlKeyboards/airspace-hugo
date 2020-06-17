@@ -35,7 +35,7 @@ weight = 2
 URL = "Instagram"
 name = "Instagram"
 weight = "4"
-pre = {{ partial "fontawesome.html" "Instagram" }}
+pre = partial "fontawesome.html" "Instagram"
 [[menu.main]]
 URL = "projects"
 name = "Projects"
