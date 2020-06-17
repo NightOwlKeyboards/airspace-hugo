@@ -39,7 +39,7 @@
               <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
               
               {{ range .Site.Params.social }}
-              <li><a href="{{ .link | safeURL }}" target="_blank">{{ partial "fontawesome.html" " .icon " }}</a></li>
+              <li><a href="{{ .link | safeURL }}" target="_blank">{{ partial "fontawesome.html" " Site.Params.social.icon " }}</a></li>
               {{ end }}
               
               {{ end }}
