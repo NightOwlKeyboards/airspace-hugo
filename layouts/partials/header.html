@@ -30,9 +30,7 @@
                   {{ range .Children }}
                   <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
                   {{ end }}
-                  {{ range .Site.Params.social }}
-                  <li><a href="{{ .link | safeURL }}" target="_blank">{{ partial "fontawesome.html" "facebook-f" }}</a></li>
-                  {{ end }}
+
                 </ul>
               </li>
               {{ else }}
