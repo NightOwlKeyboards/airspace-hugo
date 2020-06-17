@@ -89,7 +89,7 @@ preloader = ""
 [params.widgets]
 sidebar = []
 [[params.social]]
-icon = "ion-social-instagram-outline"
+icon = "instagram"
 link = "https://www.instagram.com/nightowlkeyboards"
 [[params.social]]
 icon = "twitter"
