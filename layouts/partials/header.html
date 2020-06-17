@@ -34,7 +34,7 @@
                 </ul>
               </li>
               {{ else }}
-              <li><a href="{{ .URL | absLangURL }}">{{ .Name }}{{ partial "fontawesome.html" (dict "Icon" .Name) }}</a></li>
+              <li><a href="{{ .URL | absLangURL }}">{{ .Name }}{{ partial "fontawesome.html" (dict "Icon" $Site.Menus.main.Name) }}</a></li>
               
               {{ end }}
               {{ end }}
