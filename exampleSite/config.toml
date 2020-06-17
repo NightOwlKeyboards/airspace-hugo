@@ -32,6 +32,10 @@ URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
+URL = "test"
+name = "test"
+weight = ""
+[[menu.main]]
 URL = "projects"
 name = "Projects"
 weight = 1
