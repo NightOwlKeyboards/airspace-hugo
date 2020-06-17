@@ -3,8 +3,8 @@ banner:
   enable: true
   bg_image: images/gemini_banner.jpg
   bg_overlay: true
-  title: Custom Mechanical Keyboards <br/>
-  content: Designs that will keep you up at night.
+  title: Custom Mechanical Keyboards
+  content: ''
   button:
     enable: true
     label: Browse Projects
