@@ -34,10 +34,15 @@
                 </ul>
               </li>
               {{ else }}
-              <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
-
-            <li><a href="{{ .Site.Params.social.Instagram.link | safeURL }}" target="_blank">{{ partial "fontawesome.html" .icon }}</a></li>
-
+              
+              <li>
+              {{ if .Pre }}
+              <a title="{{ .Name }}" href="{{ .URL | absLangURL }}">{{ .Pre }}</a>
+              {{ else }}
+              <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+              {{ end }}
+              </li>
+              
               {{ end }}
               {{ end }}
 
