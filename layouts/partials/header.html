@@ -29,11 +29,12 @@
                 <ul class="dropdown-menu">
                   {{ range .Children }}
                   <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+                  <li><a href="{{ .URL | absLangURL }}">{{ partial "fontawesome.html" "instagram" }}</a></li>
                   {{ end }}
                 </ul>
               </li>
               {{ else }}
-              <li><a href="{{ .URL | absLangURL }}">{{ .Name }}{{ partial "fontawesome.html" "instagram" }}</a></li>
+              <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
               {{ end }}
               {{ end }}
             
