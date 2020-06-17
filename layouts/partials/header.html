@@ -35,9 +35,9 @@
               </li>
               {{ else }}
               <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
-                          {{ range .Site.Params.social }}
-            <li><a href="{{ .link | safeURL }}" target="_blank">{{ partial "fontawesome.html" .icon }}</a></li>
-            {{ end }}
+
+            <li><a href="{{ .Site.Params.social.Instagram.link | safeURL }}" target="_blank">{{ partial "fontawesome.html" .icon }}</a></li>
+
               {{ end }}
               {{ end }}
 
