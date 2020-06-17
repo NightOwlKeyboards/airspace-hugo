@@ -29,7 +29,7 @@
                 <ul class="dropdown-menu">
                   {{ range .Children }}
                   <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
-                  <li><a href="{{ .URL | absLangURL }}">{{ partial "fontawesome.html" "instagram" }}</a></li>
+                  <li><a href="{{ .URL | absLangURL }}"></a></li>
                   {{ end }}
                 </ul>
               </li>
@@ -37,6 +37,12 @@
               <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
               {{ end }}
               {{ end }}
+              
+              <ul class="social-icons">
+                {{ range .Site.Params.social }}
+                <li><a href="{{ .link | safeURL }}" target="_blank">{{ partial "fontawesome.html" "instagram" }}</a></li>
+                {{ end }}
+              </ul>
             
               
               <!-- Language List -->
