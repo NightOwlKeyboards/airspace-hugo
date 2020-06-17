@@ -37,7 +37,7 @@
               
               <li>
               {{ if .Pre }}
-              <a title="{{ .Name }}" href="{{ .URL | absLangURL }}">{{ partial "fontawesome.html" ".Pre" }}</a>
+              <a title="{{ .Name }}" href="{{ .URL | absLangURL }}">{{ partial "fontawesome.html" "{{ .Pre }}" }}</a>
               {{ else }}
               <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
               {{ end }}
