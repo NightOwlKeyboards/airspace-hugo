@@ -38,11 +38,9 @@
               {{ end }}
               {{ end }}
               
-              <ul class="social-icons">
                 {{ range .Site.Params.social }}
-                <li><a href="{{ .link | safeURL }}" target="_blank">{{ partial "fontawesome.html" "instagram" }}</a></li>
+                <li><a href="{{ .link | safeURL }}" target="_blank">{{ partial "fontawesome.html" "{{ .icon }}" }}</a></li>
                 {{ end }}
-              </ul>
             
               
               <!-- Language List -->
