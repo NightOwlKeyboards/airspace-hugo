@@ -30,3 +30,5 @@ fields:
   - type: text
     name: info
     label: info
+pages:
+- exampleSite/content/english/projects/test-2.md
