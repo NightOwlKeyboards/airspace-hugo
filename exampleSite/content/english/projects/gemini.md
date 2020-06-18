@@ -4,21 +4,33 @@ description = "Multifunctional, Seamless, Gasket-Mount"
 image = "/images/gemini_thumbnail_2.jpg"
 title = "'Gemini' TKL"
 [[information]]
-info = "Info"
-label = "Test"
+info = "TKL"
+label = "Form Factor"
+[[information]]
+info = "Gasket Sandwich"
+label = "Mounting Type"
+[[information]]
+info = "7.77°"
+label = "Typing Angle"
+[[information]]
+info = "USB-C"
+label = "Connection Type"
+[[information]]
+info = "MX/Topre"
+label = "Compatibility"
 
 +++
-The inspiration for 'Gemini' began with a desire for a custom case for the Novatouch TKL. 
+The inspiration for 'Gemini' began with a desire for a custom case for the Novatouch TKL.
 
 There were a few features that we wanted to tackle in our design:
 
 * USB-C compatibility
-* Inclined Typing Angle (7.77 degrees)
+* Inclined Typing Angle
 * Gasket-Mounted
 
-One important idea came to mind and thus the 'Gemini' was born. Why not include compatibility for a custom plate and PCB to allow for MX switches as well? Not everyone is going to have a Novatouch donor just laying around and they aren't exactly easy to find these days. 
+One important idea came to mind and thus the 'Gemini' was born. Why not include compatibility for a custom plate and PCB to allow for MX switches as well? Not everyone is going to have a Novatouch donor just laying around and they aren't exactly easy to find these days.
 
-This is accomplished by offering two different top halves depending on your needs. 
+This is accomplished by offering two different top halves depending on your needs.
 
 Novatouch Version:
 
