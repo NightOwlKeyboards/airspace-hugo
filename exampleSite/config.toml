@@ -118,7 +118,7 @@ link = "https://instagram.com/nightowlkeyboards"
 icon = "twitter"
 link = "https://twitter.com/nightowlkb"
 [[params.social]]
-icon = "facebook-f"
+icon = "facebook"
 link = "https://facebook.com/nightowlkeyboards"
 [[params.social]]
 icon = "discord"
