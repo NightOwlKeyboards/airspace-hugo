@@ -7,3 +7,4 @@ information = []
 title = "Test 2"
 
 +++
+{{< gallery album="<Projects>" >}}
