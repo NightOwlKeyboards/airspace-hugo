@@ -7,6 +7,8 @@ information = []
 title = "Test 2"
 
 +++
+{{< load-photoswipe >}}
+
 {{< gallery >}} 
 
   {{< figure src="images/Gemini_Thumbnail.jpg" link="images/Gemini_Thumbnail.jpg" >}}  
