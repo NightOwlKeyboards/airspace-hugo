@@ -9,8 +9,4 @@ title = "Test 2"
 +++
 {{< load-photoswipe >}}
 
-{{< gallery >}} 
-
-  {{< figure link="images/Gemini_Thumbnail.jpg" >}}  
-
-{{< /gallery >}}
+{{< gallery dir="/images/Gemini/" />}}
