@@ -7,4 +7,4 @@ information = []
 title = "Test 2"
 
 +++
-{{< gallery >}}   {{< figure src="Gemini_Thumbnail_Large.jpg" >}}  {{< /gallery >}}
+{{< gallery >}}   {{< figure src="images/Gemini_Thumbnail_Large.jpg" >}}  {{< /gallery >}}
