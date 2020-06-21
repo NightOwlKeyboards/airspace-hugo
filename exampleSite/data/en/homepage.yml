@@ -25,7 +25,7 @@ about:
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
+  title: ''
   content: ''
   button:
     enable: false
