@@ -98,7 +98,7 @@ img / a styles
     transform: scale(1.05);
 }
 .gallery.hover-effect-fade figure:hover .img {
-  opacity: 0.3;
+  opacity: 0.5;
 }
 .gallery img {
     display: none; /* only show the img if not inside a gallery */
