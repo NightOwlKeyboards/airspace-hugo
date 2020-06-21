@@ -1,6 +1,6 @@
 ---
 title: About Us
-description: this is meta description
+description: ''
 bg_image: ''
 
 ---
