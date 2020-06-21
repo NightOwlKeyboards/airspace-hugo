@@ -24,7 +24,7 @@ about:
   image: images/wrapper-img.png
 portfolio:
   enable: true
-  bg_image: images/featue-bg.jpg
+  bg_image: ''
   title: ''
   content: ''
   button:
