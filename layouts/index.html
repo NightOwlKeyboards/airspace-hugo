@@ -60,6 +60,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
+        <h1>{{ .title | markdownify }}</h1>
         <h2 class="section-subtitle">{{ .title | markdownify }}</h2>
         {{ .content | markdownify }}
         {{ partial "instagram_gallery.html" . }}
