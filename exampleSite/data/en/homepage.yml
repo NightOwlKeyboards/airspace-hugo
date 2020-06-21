@@ -25,7 +25,7 @@ about:
 portfolio:
   enable: true
   bg_image: ''
-  title: ''
+  title: Latest from Instagram
   content: ''
   button:
     enable: false
