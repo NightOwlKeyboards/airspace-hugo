@@ -38,18 +38,6 @@ One important idea came to mind and thus the 'Gemini' was born. Why not include 
 
 {{< column >}}
 
-Novatouch Version:
-
-* Novatouch Compatible Top
-* Bottom
-* USB-C Daughterboard (NTA v1.0)
-* Custom Die-Cut Gaskets
-* Custom Molded Feet
-
-{{< /column >}}
-
-{{< column >}}
-
 MX Version:
 
 * MX Compatible Top
@@ -62,6 +50,18 @@ MX Version:
 * PCB
 * MX Compatible Plate
 * Custom Molded U-Gaskets for Plate
+* Custom Molded Feet
+
+{{< /column >}}
+
+{{< column >}}
+
+Novatouch Version:
+
+* Novatouch Compatible Top
+* Bottom
+* USB-C Daughterboard (NTA v1.0)
+* Custom Die-Cut Gaskets
 * Custom Molded Feet
 
 {{< /column >}}
