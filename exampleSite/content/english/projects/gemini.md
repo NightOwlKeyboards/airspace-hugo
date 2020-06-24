@@ -38,18 +38,6 @@ One important idea came to mind and thus the 'Gemini' was born. Why not include 
 
 {{< column >}}
 
-One
-
-{{< /column >}}
-
-{{< column >}}
-
-Two
-
-{{< /column >}}
-
-{{< /row >}}
-
 Novatouch Version:
 
 * Novatouch Compatible Top
@@ -57,6 +45,10 @@ Novatouch Version:
 * USB-C Daughterboard (NTA v1.0)
 * Custom Die-Cut Gaskets
 * Custom Molded Feet
+
+{{< /column >}}
+
+{{< column >}}
 
 MX Version:
 
@@ -71,6 +63,10 @@ MX Version:
 * MX Compatible Plate
 * Custom Molded U-Gaskets for Plate
 * Custom Molded Feet
+
+{{< /column >}}
+
+{{< /row >}}
 
 {{< gallery caption-position="none" hover-effect="fade" >}}
 
