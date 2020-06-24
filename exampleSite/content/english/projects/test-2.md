@@ -7,6 +7,6 @@ information = []
 title = "Test 2"
 
 +++
-{{< gallery caption-position="none" hover-effect="fade" dir="/images/gemini/" />}}
+{{< gallery caption-position="none" hover-effect="fade" height="1200" dir="/images/gemini/" />}}
 
 {{< load-photoswipe >}}
