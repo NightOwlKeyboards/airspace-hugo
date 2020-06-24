@@ -20,17 +20,17 @@ Grid Layout Styles
     padding-bottom: 100%; 
 }
 @media only screen and (min-width : 365px) {
-    /* Tablet view: 2 tiles */
+    /* Tablet view: 2 tiles = 50% */
     .gallery .box {
-        width: 50%;
-        padding-bottom: 50%;
+        width: 33.3%;
+        padding-bottom: 33.3%;
     }
 }
 @media only screen and (min-width : 480px) {
-    /* Small desktop / ipad view: 3 tiles */
+    /* Small desktop / ipad view: 3 tiles = 33.3% */
     .gallery .box {
-        width: 33.3%;
-        padding-bottom: 33.3%; /*  */
+        width: 25%;
+        padding-bottom: 25%; /*  */
     }
 }
 @media only screen and (min-width : 720px) {
