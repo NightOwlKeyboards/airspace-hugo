@@ -63,6 +63,6 @@ title = "Test 2"
 
 {{< figure src="https://imgur.com/fygVyj3.jpg"  link="https://imgur.com/NrNZNB4.jpg" >}}
 
-{{< /gallery >}}"  link="" >}}
+{{< /gallery >}}"
 
 {{< load-photoswipe >}}
