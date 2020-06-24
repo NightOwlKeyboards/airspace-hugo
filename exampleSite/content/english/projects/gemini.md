@@ -67,6 +67,8 @@ Novatouch Version:
 
 {{< /row >}}
 
+<br>
+
 {{< gallery caption-position="none" hover-effect="fade" >}}
 
 {{< figure src="https://imgur.com/5Y8uI0K.jpg" link="https://imgur.com/T05llPp.jpg" >}}
