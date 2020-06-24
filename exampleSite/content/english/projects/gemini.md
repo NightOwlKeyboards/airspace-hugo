@@ -45,7 +45,7 @@ MX Version:
   2. 'Standard' WKL
   3. F13 WinKey
   4. F13 WKL
-* Bottom
+* Universal Bottom
 * USB-C Daughterboard (Unified)
 * PCB
 * MX Compatible Plate
@@ -59,7 +59,7 @@ MX Version:
 Novatouch Version:
 
 * Novatouch Compatible Top
-* Bottom
+* Universal Bottom
 * USB-C Daughterboard (NTA v1.0)
 * Custom Die-Cut Gaskets
 * Custom Molded Feet
