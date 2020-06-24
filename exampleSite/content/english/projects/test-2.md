@@ -9,7 +9,7 @@ title = "Test 2"
 +++
 {{< gallery >}}
 
-{{< figure src="https://imgur.com/5Y8uI0K" link="https://imgur.com/T05llPp" >}}
+{{< figure src="https://imgur.com/5Y8uI0K.jpg" link="https://imgur.com/T05llPp.jpg" >}}
 
 {{< /gallery >}}
 
