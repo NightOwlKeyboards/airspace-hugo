@@ -22,15 +22,15 @@ Grid Layout Styles
 @media only screen and (min-width : 365px) {
     /* Tablet view: 2 tiles = 50% */
     .gallery .box {
-        width: 33.3%;
-        padding-bottom: 33.3%;
+        width: 25%;
+        padding-bottom: 25%;
     }
 }
 @media only screen and (min-width : 480px) {
     /* Small desktop / ipad view: 3 tiles = 33.3% */
     .gallery .box {
-        width: 25%;
-        padding-bottom: 25%; /*  */
+        width: 20%;
+        padding-bottom: 20%; /*  */
     }
 }
 @media only screen and (min-width : 600px) {
