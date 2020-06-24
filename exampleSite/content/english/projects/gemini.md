@@ -24,13 +24,17 @@ The inspiration for 'Gemini' began with a desire for a custom case for the Novat
 
 There were a few features that we wanted to tackle in our design:
 
-  * USB-C compatibility
+* USB-C compatibility
 
-  + Inclined Typing Angle
 
-  - Gasket-Mounted
+* Inclined Typing Angle
+
+
+* Gasket-Mounted
 
 One important idea came to mind and thus the 'Gemini' was born. Why not include compatibility for a custom plate and PCB to allow for MX switches as well? Not everyone is going to have a Novatouch donor just laying around and they aren't exactly easy to find these days. This is accomplished by offering two different top halves depending on your needs.
+
+<div class="block">
 
 Novatouch Version:
 
@@ -39,6 +43,8 @@ Novatouch Version:
 * USB-C Daughterboard (NTA v1.0)
 * Custom Die-Cut Gaskets
 * Custom Molded Feet
+
+</div>
 
 MX Version:
 
