@@ -108,6 +108,6 @@ MX Version:
 
 {{< figure src="https://imgur.com/fygVyj3.jpg"  link="https://imgur.com/NrNZNB4.jpg" >}}
 
-{{< /gallery >}}"
+{{< /gallery >}}
 
 {{< load-photoswipe >}}
