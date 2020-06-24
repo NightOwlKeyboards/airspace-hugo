@@ -33,7 +33,7 @@ Grid Layout Styles
         padding-bottom: 33.3%; /*  */
     }
 }
-@media only screen and (min-width : 1000px) {
+@media only screen and (min-width : 720px) {
    /* Medium desktop: 4 tiles = 25% */
    .box {
       width: 20%;
