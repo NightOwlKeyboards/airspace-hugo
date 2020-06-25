@@ -38,7 +38,8 @@ One important idea came to mind and thus the 'Gemini' was born. Why not include 
 
 {{< column >}}
 
-* MX Version:
+MX Version:
+
 * MX Compatible Top
 
 1. 'Standard' WinKey
