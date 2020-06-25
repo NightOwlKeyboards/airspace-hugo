@@ -24,13 +24,15 @@ The inspiration for 'Gemini' began with a desire for a custom case for the Novat
 
 There were a few features that we wanted to tackle in our design:
 
-<li>USB-C compatibility</li>
+{{< class list-disc >}}<li>USB-C compatibility</li>
 
 <li>Inclined Typing Angle</li>
 
 <li>Gasket-Mounted</li>
 
 <li>Seamless Design</li>
+
+{{< /class >}}
 
 <br><br>
 
