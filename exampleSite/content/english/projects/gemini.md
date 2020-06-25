@@ -40,7 +40,7 @@ One important idea came to mind and thus the 'Gemini' was born. Why not include 
 
 {{< column >}}
 
-MX Version:
+MX Version:<p>
 
 * MX Compatible Top
   1. 'Standard' WinKey
@@ -54,7 +54,7 @@ MX Version:
 * Custom Molded U-Gaskets for Plate
 * Custom Molded Feet
 
-{{< /column >}}
+</p>{{< /column >}}
 
 {{< column >}}
 
