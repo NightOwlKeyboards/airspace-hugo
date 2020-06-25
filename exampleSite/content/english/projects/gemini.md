@@ -40,7 +40,9 @@ One important idea came to mind and thus the 'Gemini' was born. Why not include 
 
 MX Version:
 
-* MX Compatible Top
+{{< class list-disc >}}
+
+* <li>MX Compatible Top</li>
   1. 'Standard' WinKey
   2. 'Standard' WKL
   3. F13 WinKey
