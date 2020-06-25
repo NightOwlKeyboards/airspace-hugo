@@ -29,11 +29,17 @@ There were a few features that we wanted to tackle in our design:
 * Gasket-Mounted
 * Seamless Design
 
-<br>One important idea came to mind and thus the 'Gemini' was born. Why not include compatibility for a custom plate and PCB to allow for MX switches as well? Not everyone is going to have a Novatouch donor just laying around and they aren't exactly easy to find these days. This is accomplished by offering two different top halves depending on your needs.
+<p>
+
+One important idea came to mind and thus the 'Gemini' was born. Why not include compatibility for a custom plate and PCB to allow for MX switches as well? Not everyone is going to have a Novatouch donor just laying around and they aren't exactly easy to find these days. This is accomplished by offering two different top halves depending on your needs.
+
+</p>
 
 {{< row >}}
 
 {{< column >}}
+
+<p>
 
 MX Version:
 
@@ -51,7 +57,7 @@ MX Version:
 
 {{< /column >}}
 
-<br>
+</p><p>
 
 {{< column >}}
 
@@ -67,7 +73,7 @@ Novatouch Version:
 
 {{< /row >}}
 
-<br>
+</p>
 
 {{< gallery caption-position="none" hover-effect="fade" >}}
 
