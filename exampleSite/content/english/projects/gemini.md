@@ -68,11 +68,9 @@ Novatouch Version:
 
 {{< /column >}}
 
-{{< column >}}
-
-{{< /column >}}
-
 {{< /class >}}
+
+{{< /row >}}
 
 {{< gallery caption-position="none" hover-effect="fade" >}}
 
@@ -131,7 +129,5 @@ Novatouch Version:
 {{< figure src="https://imgur.com/fygVyj3.jpg"  link="https://imgur.com/NrNZNB4.jpg" >}}
 
 {{< /gallery >}}
-
-{{< /row >}}
 
 {{< load-photoswipe >}}
