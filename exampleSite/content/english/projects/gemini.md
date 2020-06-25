@@ -53,8 +53,6 @@ MX Version:
 
 {{< /column >}}
 
-<br>
-
 {{< column >}}
 
 Novatouch Version:
@@ -68,8 +66,6 @@ Novatouch Version:
 {{< /column >}}
 
 {{< /row >}}
-
-<br><br>
 
 {{< gallery caption-position="none" hover-effect="fade" >}}
 
