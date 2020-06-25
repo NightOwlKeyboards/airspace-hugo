@@ -43,12 +43,10 @@ One important idea came to mind and thus the 'Gemini' was born. Why not include 
 MX Version:
 
 * MX Compatible Top
-
-1. 'Standard' WinKey
-2. 'Standard' WKL
-3. F13 WinKey
-4. F13 WKL
-
+  1. 'Standard' WinKey
+  2. 'Standard' WKL
+  3. F13 WinKey
+  4. F13 WKL
 * Universal Bottom
 * USB-C Daughterboard (Unified)
 * PCB
