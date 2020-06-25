@@ -52,11 +52,11 @@ MX Version:
 * PCB
 * MX Compatible Plate
 * Custom Molded U-Gaskets for Plate
-* Custom Molded Feet
+* Custom Molded Feet  
 
-<br>{{< /column >}}
+{{< /column >}}
 
-{{< column >}}<br>
+{{< column >}}
 
 Novatouch Version:
 
