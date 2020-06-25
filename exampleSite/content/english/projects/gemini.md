@@ -37,11 +37,11 @@ There were a few features that we wanted to tackle in our design:
 
 One important idea came to mind and thus the 'Gemini' was born. Why not include compatibility for a custom plate and PCB to allow for MX switches as well? Not everyone is going to have a Novatouch donor just laying around and they aren't exactly easy to find these days. This is accomplished by offering two different top halves depending on your needs.
 
+{{< class list-disc >}}
+
 {{< row >}}
 
 {{< column >}}
-
-{{< class list-disc >}}
 
 MX Version:
 
@@ -57,13 +57,9 @@ MX Version:
 * Custom Molded U-Gaskets for Plate
 * Custom Molded Feet
 
-{{< /class >}}
-
 {{< /column >}}
 
 {{< column >}}
-
-{{< class list-disc >}}
 
 Novatouch Version:
 
@@ -73,11 +69,11 @@ Novatouch Version:
 * Custom Die-Cut Gaskets
 * Custom Molded Feet
 
-{{< /class >}}
-
 {{< /column >}}
 
 {{< /row >}}
+
+{{< /class >}}
 
 {{< gallery caption-position="none" hover-effect="fade" >}}
 
