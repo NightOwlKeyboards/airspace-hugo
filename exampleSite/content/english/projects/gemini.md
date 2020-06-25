@@ -26,10 +26,13 @@ There were a few features that we wanted to tackle in our design:
 
 {{< class list-disc >}}
 
-* <li>USB-C compatibility</li>
-* Inclined Typing Angle
-* Gasket-Mounted
-* Seamless Design
+<li>USB-C compatibility</li>
+
+<li>Inclined Typing Angle</li>
+
+<li>Gasket-Mounted</li>
+
+<li>Seamless Design</li>
 
 {{< /class >}}
 
