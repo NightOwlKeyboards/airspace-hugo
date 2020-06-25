@@ -9,7 +9,7 @@ Grid Layout Styles
 */
 .gallery {
     overflow: hidden;
-    margin-top: 20px;
+    margin-top: 50px;
     max-width: 1024px;
 }
 .gallery .box {
