@@ -50,25 +50,9 @@
               <div class="block">
           <ul class="address-block">
             <li><i class="ion-ios-location-outline"></i>{{i18n "location"}}: {{ .Site.Params.location }}</li>
-          </ul>
+                </ul></div>
     </div>
   </div>
 </section>
 
 {{ end }}
-
-<!--
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <ul class="address-block">
-            <li><i class="ion-ios-location-outline"></i>{{i18n "location"}}: {{ .Site.Params.location }}</li>
-            <li><i class="ion-ios-email-outline"></i>{{i18n "email"}}: {{ .Site.Params.email }}</li>
-          </ul>
-          <ul class="social-icons">
-            {{ range .Site.Params.social }}
-            <li><a href="{{ .link | safeURL }}" target="_blank">{{ partial "fontawesome.html" .icon }}</a></li>
-            {{ end }}
-          </ul>
-        </div>
-      </div>
---!>
