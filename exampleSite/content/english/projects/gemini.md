@@ -56,7 +56,7 @@ MX Version:
 
 <br>{{< /column >}}
 
-{{< column >}}
+{{< column >}}<br>
 
 Novatouch Version:
 
