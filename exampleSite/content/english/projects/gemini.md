@@ -36,6 +36,8 @@ One important idea came to mind and thus the 'Gemini' was born. Why not include 
 
 {{< class list-disc >}}
 
+{{< row >}}
+
 {{< column >}}
 
 MX Version:
@@ -67,6 +69,8 @@ Novatouch Version:
 * Custom Molded Feet
 
 {{< /column >}}
+
+{{< row >}}
 
 {{< /class >}}
 
