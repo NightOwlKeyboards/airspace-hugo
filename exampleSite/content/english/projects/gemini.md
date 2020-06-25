@@ -68,11 +68,11 @@ Novatouch Version:
 
 {{< /column >}}
 
-{{< /class >}}
-
 {{< column >}}
 
 {{< /column >}}
+
+{{< /class >}}
 
 {{< gallery caption-position="none" hover-effect="fade" >}}
 
