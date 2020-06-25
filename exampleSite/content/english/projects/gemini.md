@@ -45,7 +45,7 @@ One important idea came to mind and thus the 'Gemini' was born. Why not include 
 
 {{< row >}}
 
-{{< class "list-disc mt-10" >}}
+{{< class "list-disc" >}}
 
 {{< column >}}
 
