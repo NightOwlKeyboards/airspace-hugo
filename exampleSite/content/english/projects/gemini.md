@@ -40,8 +40,6 @@ One important idea came to mind and thus the 'Gemini' was born. Why not include 
 
 MX Version:
 
-{{< class list-disc >}}
-
 <ul>
 
 <li>MX Compatible Top</li>
@@ -71,8 +69,6 @@ MX Version:
 <li>Custom Molded Feet</li>
 
 </ul>
-
-{{< /class >}}
 
 {{< /column >}}
 
