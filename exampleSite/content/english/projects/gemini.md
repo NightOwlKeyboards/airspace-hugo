@@ -38,37 +38,20 @@ One important idea came to mind and thus the 'Gemini' was born. Why not include 
 
 {{< column >}}
 
-MX Version:
+* MX Version:
+* MX Compatible Top
 
-<ul class="list-disc">
+1. 'Standard' WinKey
+2. 'Standard' WKL
+3. F13 WinKey
+4. F13 WKL
 
-<li>MX Compatible Top</li>
-
-<ol>
-
-<li>'Standard' WinKey</li>
-
-<li>'Standard' WKL</li>
-
-<li>F13 WinKey</li>
-
-<li>F13 WKL</li>
-
-</ol>
-
-<li>Universal Bottom</li>
-
-<li>USB-C Daughterboard (Unified)</li>
-
-<li>PCB</li>
-
-<li>MX Compatible Plate</li>
-
-<li>Custom Molded U-Gaskets for Plate</li>
-
-<li>Custom Molded Feet</li>
-
-</ul>
+* Universal Bottom
+* USB-C Daughterboard (Unified)
+* PCB
+* MX Compatible Plate
+* Custom Molded U-Gaskets for Plate
+* Custom Molded Feet
 
 {{< /column >}}
 
