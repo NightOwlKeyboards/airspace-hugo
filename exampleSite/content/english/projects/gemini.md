@@ -70,9 +70,9 @@ Novatouch Version:
 
 {{< /class >}}
 
-{{< /row >}}
+{{< column >}}
 
-{{< row >}}
+{{< /column >}}
 
 {{< gallery caption-position="none" hover-effect="fade" >}}
 
