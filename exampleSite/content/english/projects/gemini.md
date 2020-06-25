@@ -52,9 +52,11 @@ MX Version:
 * PCB
 * MX Compatible Plate
 * Custom Molded U-Gaskets for Plate
-* Custom Molded Feet  
+* Custom Molded Feet
 
 {{< /column >}}
+
+<br>
 
 {{< column >}}
 
