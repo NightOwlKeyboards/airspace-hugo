@@ -45,7 +45,7 @@ One important idea came to mind and thus the 'Gemini' was born. Why not include 
 
 {{< row >}}
 
-{{< class "list-disc" >}}
+{{< class "list-disc mt-10" >}}
 
 {{< column >}}
 
@@ -64,8 +64,6 @@ MX Version:
 * Custom Molded Feet
 
 {{< /column >}}
-
-<br>
 
 {{< column >}}
 
