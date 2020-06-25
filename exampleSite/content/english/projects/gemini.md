@@ -24,13 +24,13 @@ The inspiration for 'Gemini' began with a desire for a custom case for the Novat
 
 There were a few features that we wanted to tackle in our design:
 
-{{< class list-disc >}}<ul><li>USB-C compatibility</li>
+{{< class list-disc >}}<p><ul><li>USB-C compatibility</li>
 
 <li>Inclined Typing Angle</li>
 
 <li>Gasket-Mounted</li>
 
-<li>Seamless Design</li></ul><br>{{< /class >}}
+<li>Seamless Design</li></ul><br></p>{{< /class >}}
 
 One important idea came to mind and thus the 'Gemini' was born. Why not include compatibility for a custom plate and PCB to allow for MX switches as well? Not everyone is going to have a Novatouch donor just laying around and they aren't exactly easy to find these days. This is accomplished by offering two different top halves depending on your needs.
 
