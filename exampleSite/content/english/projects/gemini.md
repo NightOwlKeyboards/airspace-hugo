@@ -58,7 +58,7 @@ MX Version:<p>
 
 {{< column >}}
 
-Novatouch Version:
+Novatouch Version:<p>
 
 * Novatouch Compatible Top
 * Universal Bottom
@@ -66,7 +66,7 @@ Novatouch Version:
 * Custom Die-Cut Gaskets
 * Custom Molded Feet
 
-{{< /column >}}
+</p>{{< /column >}}
 
 {{< /class >}}
 
