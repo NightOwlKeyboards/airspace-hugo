@@ -40,7 +40,7 @@ One important idea came to mind and thus the 'Gemini' was born. Why not include 
 
 MX Version:
 
-<ul>
+<ul class="list-disc">
 
 <li>MX Compatible Top</li>
 
