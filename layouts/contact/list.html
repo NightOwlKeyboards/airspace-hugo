@@ -7,9 +7,12 @@
 <section class="contact-form">
   <div class="container">
     <div class="row">
-      <form name="Contact" method="POST" action="{{ .Site.Params.contact_form_action | safeURL }}" data-netlify-recaptcha="true">
+      <form name="Contact" method="POST" action="{{ .Site.Params.contact_form_action | safeURL }}" netlify-honeypot="hidden-field" data-netlify-recaptcha="true" data-netlify="true">
         <div class="col-md-6 col-sm-12">
           <div class="block">
+              <p class="hidden">
+              <label>Feed the bots: <input name="hidden-field" /></label>
+              </p>
             <div class="form-group">
               <input name="user_name" type="text" class="form-control" placeholder="Your Name">
             </div>
