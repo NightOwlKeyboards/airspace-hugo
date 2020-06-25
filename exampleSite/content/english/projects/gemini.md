@@ -68,7 +68,7 @@ Novatouch Version:
 
 {{< /column >}}
 
-{{< row >}}
+{{< /row >}}
 
 {{< /class >}}
 
