@@ -38,7 +38,7 @@
       </form>
     </div>
     <div class="contact-box row">
-      <div class="col-md-6 col-sm-12">
+      <div class="col-md-12 col-sm-12">
       {{ if .Site.Params.gmap.enable }}
         <div class="block">
           <div class="google-map">
@@ -47,10 +47,9 @@
         </div>
       </div>
       {{ end }}
-              <div class="block">
           <ul class="address-block">
             <li><i class="ion-ios-location-outline"></i>{{i18n "location"}}: {{ .Site.Params.location }}</li>
-                </ul></div>
+                </ul>
     </div>
   </div>
 </section>
