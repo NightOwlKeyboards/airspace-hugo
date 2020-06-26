@@ -42,7 +42,8 @@
       {{ if .Site.Params.gmap.enable }}
         <div class="block">
           <div class="google-map">
-            <div class="map" id="map_canvas" data-latitude="{{ .Site.Params.gmap.map_latitude }}" data-longitude="{{ .Site.Params.gmap.map_longitude }}" data-marker="{{ .Site.Params.gmap.map_marker | relURL }}" data-marker-name="{{ .Site.Title }}"></div>
+            <div class="map" id="map_canvas">
+            <iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/view?zoom=10&center=30.2672%2C-97.7431&key=AIzaSyAa0Ws3xyhVwAB2UMHp_afuhXuPI9PzhSo" allowfullscreen></iframe>            </div>
           </div>
         </div>
       </div>
