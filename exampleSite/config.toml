@@ -32,38 +32,38 @@ URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
-name = "Projects"
 URL = "projects"
+name = "Projects"
 pre = ""
 weight = 1
 [[menu.main]]
-name = "About"
 URL = "about"
+name = "About"
 pre = ""
 weight = 2
 [[menu.main]]
-name = "Contact"
 URL = "contact"
+name = "Contact"
 pre = ""
 weight = 3
 [[menu.main]]
-name = "Instagram"
 URL = "https://instagram.com/nightowlkeyboards"
+name = "Instagram"
 pre = "instagram"
 weight = "4"
 [[menu.main]]
-name = "Twitter"
 URL = "https://twitter.com/nightowlkb"
+name = "Twitter"
 pre = "twitter"
 weight = "5"
 [[menu.main]]
-name = "Facebook"
 URL = "https://facebook.com/nightowlkeyboards"
+name = "Facebook"
 pre = "facebook"
 weight = "6"
 [[menu.main]]
-name = "Discord"
 URL = "https://discord.gg/mG2tB83"
+name = "Discord"
 pre = "discord"
 weight = "7"
 [params]
@@ -78,7 +78,7 @@ mobile = ""
 multi_author = false
 [params.gmap]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyAa0Ws3xyhVwAB2UMHp_afuhXuPI9PzhSo&libraries=places"
 map_latitude = "30.2724374"
 map_longitude = "-97.7446826"
 map_marker = "images/marker.png"
