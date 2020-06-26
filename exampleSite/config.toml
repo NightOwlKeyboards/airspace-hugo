@@ -78,7 +78,7 @@ mobile = ""
 multi_author = false
 [params.gmap]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyAa0Ws3xyhVwAB2UMHp_afuhXuPI9PzhSo&libraries=places"
+gmap_api = "https://www.google.com/maps/embed/v1/place?key=AIzaSyAa0Ws3xyhVwAB2UMHp_afuhXuPI9PzhSo"
 map_latitude = "30.2724374"
 map_longitude = "-97.7446826"
 map_marker = "images/marker.png"
