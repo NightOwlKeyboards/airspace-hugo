@@ -1,6 +1,6 @@
 +++
 bg_image = ""
-description = "Multifunctional. Seamless. Gasket-Mount."
+description = "Multifunctional. Seamless. Isolation Mount."
 image = "/images/gemini_thumbnail_2.jpg"
 title = "'Gemini' TKL"
 [[information]]
