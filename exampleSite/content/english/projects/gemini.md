@@ -4,9 +4,6 @@ description = "Multifunctional. Seamless. Gasket-Mount."
 image = "/images/gemini_thumbnail_2.jpg"
 title = "'Gemini' TKL"
 [[information]]
-info = "21mm"
-label = "Front Height"
-[[information]]
 info = "TKL"
 label = "Form Factor"
 [[information]]
@@ -15,6 +12,9 @@ label = "Mounting Type"
 [[information]]
 info = "7.77°"
 label = "Typing Angle"
+[[information]]
+info = "21mm"
+label = "Front Height"
 [[information]]
 info = "USB-C"
 label = "Connection Type"
@@ -61,10 +61,10 @@ MX Version:
   4. F13 WKL
 * Universal Bottom
 * USB-C Daughterboard (Unified)
-* PCB
 * MX Compatible Plate
 * Custom Molded U-Gaskets for Plate
 * Custom Molded Feet
+* PCB (optional)
 
  
 
