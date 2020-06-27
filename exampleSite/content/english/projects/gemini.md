@@ -4,6 +4,9 @@ description = "Multifunctional. Seamless. Gasket-Mount."
 image = "/images/gemini_thumbnail_2.jpg"
 title = "'Gemini' TKL"
 [[information]]
+info = "21mm"
+label = "Front Height"
+[[information]]
 info = "TKL"
 label = "Form Factor"
 [[information]]
