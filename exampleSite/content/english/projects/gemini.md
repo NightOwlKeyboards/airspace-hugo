@@ -7,7 +7,7 @@ title = "'Gemini' TKL"
 info = "TKL"
 label = "Form Factor"
 [[information]]
-info = "Gasket Sandwich"
+info = "Isolation (aka Gasket)"
 label = "Mounting Type"
 [[information]]
 info = "7.77°"
@@ -32,7 +32,7 @@ There were a few features that we wanted to tackle in our design:
 
 * USB-C compatibility
 * Inclined Typing Angle
-* Gasket-Mounted
+* Isolation Mount (aka Gasket)
 * Seamless Design
 
 {{< /column >}}
@@ -63,7 +63,7 @@ MX Version:
 * Custom Molded U-Gaskets for Plate
 * Custom Molded Feet
 
-&nbsp;
+ 
 
 {{< /column >}}
 
@@ -77,7 +77,7 @@ Novatouch Version:
 * Custom Die-Cut Gaskets
 * Custom Molded Feet
 
-&nbsp;
+ 
 
 {{< /column >}}
 
