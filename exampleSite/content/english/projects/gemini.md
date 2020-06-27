@@ -16,7 +16,7 @@ label = "Typing Angle"
 info = "USB-C"
 label = "Connection Type"
 [[information]]
-info = "MX/Topre"
+info = "MX/Topre (Novatouch)"
 label = "Compatibility"
 
 +++
