@@ -74,6 +74,7 @@
 
 .google-map {
   position: relative;
+  @extend .overly;
 }
 
 .google-map .map {
