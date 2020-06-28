@@ -1,16 +1,18 @@
 .instagram-feed {
 	a {
 		margin:6px;
-		margin-right: 10px;
 		display: inline-block;
-		margin-bottom: 10px;
-		width: 23.5%;
+		margin-bottom: 6px;
+		width: 100%;
+		height: auto;
 		@include tablet {
-			width: 49%;
+			width: 100%;
+			height: auto;
 			margin:3px;
 		}
 		@include mobile {
 			width: 100%;
+			height: auto;
 			margin:3px;
 		}
 		&:hover img {
@@ -18,6 +20,7 @@
 		}
 		img {
 			width: 100%;
+			height: auto;
 
 		}
 	}
