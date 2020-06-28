@@ -49,7 +49,12 @@ $(document).ready(function() {
             console.log('Error :: ', response);
           } else {
               var feed = new Instafeed({
-                         accessToken: response.Token
+                         accessToken: response.Token,
+		         transform: function(item) {
+      			 	var d = new Date(item.timestamp);
+      				item.date = [d.getDate(), d.getMonth(), d.getYear()].join('/');
+      				return item;
+    			}
                         });
               feed.run();
             }
