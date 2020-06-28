@@ -12,6 +12,8 @@ $(document).ready(function() {
           if (!response.Token) {
             console.log('Error :: ', response);
           } else {
-              var accessToken: response.Token,
-                        });
+              var accessToken = response.Token;
             }
+  });
+ 
+});
