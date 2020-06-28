@@ -38,6 +38,7 @@ $(document).ready(function() {
 			    {
 			      	breakpoint: 480,
 			      	settings: {
+				rows: 2,
 				slidesToShow: 2,
 				slidesToScroll: 2
 			      }
@@ -45,7 +46,7 @@ $(document).ready(function() {
 			  ]
         		});
     			},
-		      	template: '<div class="item"><a href="{{link}}" target="_blank"><span><img src="{{image}}" alt="{{caption}}"/></span></a></div>',
+		      	template: '<div class="instagram-feed"><a href="{{link}}" target="_blank"><span><img src="{{image}}" alt="{{caption}}"/></span></a></div>',
 		      
                         });
               feed.run();
