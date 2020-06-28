@@ -12,16 +12,6 @@ $(document).ready(function() {
           if (!response.Token) {
             console.log('Error :: ', response);
           } else {
-              var feed = new Instafeed({
-                         accessToken: response.Token,
-		         transform: function(item) {
-      			 	var d = new Date(item.timestamp);
-      				item.date = [d.getDate(), d.getMonth(), d.getYear()].join('/');
-      				return item;
-    			}
+              var accessToken: response.Token,
                         });
-              feed.run();
             }
-  });
- 
-});
