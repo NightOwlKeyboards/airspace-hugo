@@ -14,10 +14,34 @@ $(document).ready(function() {
           } else {
               var feed = new Instafeed({
                          accessToken: response.Token,
-    after: function() {
-
-        $('#instafeed').slick({
-            slidesToShow: 3
+    			 after: function() {
+        			$('#instafeed').slick({
+            			slidesToShow: 3,
+				slidesToScroll: 3,
+				infinite: true,
+				responsive: [
+			{
+			      	breakpoint: 1024,
+			      	settings: {
+				slidesToShow: 3,
+				slidesToScroll: 3,
+			}
+			    },
+			    {
+			      	breakpoint: 600,
+			      	settings: {
+				slidesToShow: 2,
+				slidesToScroll: 2
+			      }
+			    },
+			    {
+			      	breakpoint: 480,
+			      	settings: {
+				slidesToShow: 1,
+				slidesToScroll: 1
+			      }
+			    }
+			  ]
         });
 
     }
