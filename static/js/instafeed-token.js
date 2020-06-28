@@ -1,5 +1,3 @@
-var $ = jQuery;
-
 $(document).ready(function() {
  
   // The Url from your Authorisations list  
