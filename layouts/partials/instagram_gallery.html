@@ -1,3 +1,34 @@
+/* Some very basic styles to make things look sensible - you don't need to use these */
+
+* {
+  box-sizing: border-box;
+  font-family: sans-serif
+}
+
+h1, footer {
+  max-width: 64rem;
+  margin: 2rem auto;
+}
+
+#instafeed {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0.5rem;
+  grid-row-gap: 0.5rem;
+  max-width: 64rem;
+  margin: auto;
+}
+
+#instafeed a {
+  display: block;
+}
+
+#instafeed img {
+  display: block;
+  width: 100%;
+}
+
 <script src='https://nightowlkeyboards-feed.herokuapp.com/token.js'></script>
 
 <script src="/js/instafeed.min.js"></script>
