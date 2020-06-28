@@ -20,21 +20,8 @@
 }
 </style>
 
+<div id="instafeed"></div>
+
 <script src="/js/instafeed-token.js"></script>
 
 <script src="/js/instafeed.min.js"></script>
-
-<div id="instafeed"></div>
-
-<script>
-  var feed = new Instafeed({
-    accessToken: accessToken,
-    transform: function(item) {
-      var d = new Date(item.timestamp);
-      item.date = [d.getDate(), d.getMonth(), d.getYear()].join('/');
-      return item;
-    }
-  });
-  
-  feed.run();
-</script>
