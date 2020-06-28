@@ -1,4 +1,5 @@
-html {
+<style>
+* {
   box-sizing: border-box;
   font-family: sans-serif
 }
@@ -8,7 +9,7 @@ h1, footer {
   margin: 2rem auto;
 }
 
-.instafeed {
+#instafeed {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(1, 1fr);
@@ -18,14 +19,15 @@ h1, footer {
   margin: auto;
 }
 
-.instafeed a {
+#instafeed a {
   display: block;
 }
 
-.instafeed img {
+#instafeed img {
   display: block;
   width: 100%;
 }
+</style>
 
 <script src="/js/instafeed-token.js"></script>
 
