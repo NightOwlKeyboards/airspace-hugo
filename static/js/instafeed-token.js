@@ -43,9 +43,10 @@ $(document).ready(function() {
 			      }
 			    }
 			  ]
-        });
-
-    }
+        		});
+    			},
+		      	template: '<div class="item"><a href="{{link}}" target="_blank"><span><img src="{{image}}" alt="{{caption}}"/></span></a></div>',
+		      
                         });
               feed.run();
             }
