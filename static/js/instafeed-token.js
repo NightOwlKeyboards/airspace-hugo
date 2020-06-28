@@ -16,6 +16,7 @@ $(document).ready(function() {
                          accessToken: response.Token,
     			 after: function() {
         			$('#instafeed').slick({
+				rows: 1,
             			slidesToShow: 3,
 				slidesToScroll: 3,
 				infinite: true,
@@ -23,6 +24,7 @@ $(document).ready(function() {
 				responsive: [
 			{
 			      	breakpoint: 1024,
+				rows: 1,
 			      	settings: {
 				slidesToShow: 3,
 				slidesToScroll: 3,
@@ -31,6 +33,7 @@ $(document).ready(function() {
 			    {
 			      	breakpoint: 600,
 			      	settings: {
+				rows: 1,
 				slidesToShow: 2,
 				slidesToScroll: 2
 			      }
