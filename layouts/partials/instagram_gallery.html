@@ -1,5 +1,3 @@
-/* Some very basic styles to make things look sensible - you don't need to use these */
-
 * {
   box-sizing: border-box;
   font-family: sans-serif
@@ -36,8 +34,26 @@ h1, footer {
 <div id="instafeed"></div>
 
 <script type="text/javascript">
-    var feed = new Instafeed({
-      accessToken: 'IGQVJWUWctQnpFQmJud2JQLXJWWFMwclFqRnpxbmlWV0xfNEwwRUlfeVR4aEt2azhqRW9raG4xRDhtbUk3SkpLSVk1SmtPb1o0a0tobXhOaUwwWHAwcjZA1ZAl8zLUNtNXpmbTNDb0VR'
-    });
-    feed.run();
+$(document).ready(function() {
+ 
+  // The Url from your Authorisations list  
+  var instantTokenApiUrl = 'https://ig.instant-tokens.com/users/50fb3e0c-69a2-4a5b-af45-7d25bd356f5b/instagram/17841429458967670/token?userSecret=kummbwriqu9su05ds3tcp'
+  
+	$.ajax({
+		  url: instantTokenApiUrl,
+      dataType: 'json'
+		})
+		 .done(function( response ) {
+          
+          if (!response.Token) {
+            console.log('Error :: ', response);
+          } else {
+              var feed = new Instafeed({
+                         accessToken: response.Token
+                        });
+              feed.run();
+            }
+  });
+ 
+});
 </script>
