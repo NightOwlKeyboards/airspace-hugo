@@ -5,11 +5,9 @@
 		margin-bottom: 6px;
 		width: auto;
 		@include tablet {
-			height: 100%;
 			margin:3px;
 		}
 		@include mobile {
-			height: 100%;
 			margin:3px;
 		}
 		&:hover img {
@@ -17,7 +15,6 @@
 		}
 		img {
 			width: auto;
-			height: 100%;
 
 		}
 	}
