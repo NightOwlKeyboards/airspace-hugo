@@ -49,7 +49,7 @@ $(document).ready(function() {
 			  ]
         		});
     			},
-		      	template: '<div class="instagram-feed"><a href="{{link}}" target="_blank"><span><img src="{{image}}" alt="{{caption}}"/></span></a></div>',
+		      	template: '<div><a href="{{link}}" target="_blank"><span><img src="{{image}}" alt="{{caption}}"/></span></a></div>',
 		      
                         });
               feed.run();
