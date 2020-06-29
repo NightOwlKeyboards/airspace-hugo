@@ -15,16 +15,7 @@
   		height: 0;
   		padding-top: 100%;
   		overflow: hidden;
-	a {
- 		width: auto;
-    		margin: 3px;
-		display: inline-block;
-		@include tablet {
-			margin:3px;
-		}
-		@include mobile {
-			margin:3px;
-		}
+
 		&:hover img {
 			filter: grayscale(10);
 		}
@@ -36,5 +27,4 @@
 			left: 0;
 			top: 0;
 		}
-	}
 }
