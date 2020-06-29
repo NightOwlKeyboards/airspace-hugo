@@ -1,3 +1,15 @@
+.instagram-frame {
+		display: flex;
+  		flex-direction: row;
+}
+
+.image-frame  > * {
+  		background: #DDD;
+  		flex: 1;
+  		margin-right: 1rem;
+  		position: relative;
+}
+
 .instagram-feed {
 		max-width: 64rem;
   		margin: auto;	
