@@ -1,8 +1,9 @@
 .instagram-feed {
+		max-width: 64rem;
+  		margin: auto;	
 	a {
-		box-sizing: border-box;
-		overflow: hidden;
-    		max-width: 1024px;
+	  	display: flex;
+ 		width: 25%;
     		margin: 3px;
 		display: inline-block;
 		@include tablet {
