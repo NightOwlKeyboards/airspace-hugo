@@ -6,7 +6,7 @@
 	padding-top: 100%;
 }
 
-#instagram-feed a img{
+#instagram-feed img{
 	object-fit: cover;
 	position: absolute;
 	width: 100%;
@@ -16,6 +16,6 @@
         margin: 8px;
 }
 
-#instagram-feed a img:hover {
+#instagram-feed img:hover {
 	opacity: 0.7;
 }
