@@ -20,7 +20,7 @@ $(document).ready(function() {
 				slidesToScroll: 3,
 				infinite: true,
 				arrows: true,
-				appendArrows: ".container",
+				appendArrows: ".instagram-feed",
 				responsive: [
 			{
 			      	breakpoint: 1024,
