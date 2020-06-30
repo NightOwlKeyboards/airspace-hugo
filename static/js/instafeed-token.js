@@ -45,7 +45,7 @@ $(document).ready(function() {
 			  ]
         		});
     			},
-		      	template: '<a href="{{link}}" target="_blank"><img src="{{image}}" alt="{{caption}}"/></a>',
+		      	template: '<div class="instagram-feed"><a href="{{link}}" target="_blank"><img src="{{image}}" alt="{{caption}}"/></a></div>',
 		      
                         });
               feed.run();
