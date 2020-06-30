@@ -20,6 +20,7 @@ $(document).ready(function() {
 				slidesToScroll: 3,
 				infinite: true,
 				arrows: true,
+				appendArrows: ".container",
 				responsive: [
 			{
 			      	breakpoint: 1024,
