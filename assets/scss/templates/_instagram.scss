@@ -1,12 +1,12 @@
 
-#instagram-feed {
+.instagram-feed {
 	position: relative;
 	display: flex;
 	overflow: hidden;
 	padding-top: 100%;
 }
 
-#instagram-feed img{
+.instagram-feed img{
 	object-fit: cover;
 	position: absolute;
 	width: 100%;
@@ -16,6 +16,6 @@
         margin: 8px;
 }
 
-#instagram-feed img:hover {
+.instagram-feed img:hover {
 	opacity: 0.7;
 }
