@@ -2,14 +2,14 @@
 
 }
 
-.instafeed a {
+.instafeed {
 	position: relative;
 	display: flex;
 	overflow: hidden;
 	padding-top: 100%;
 }
 
-.instafeed a img{
+.instafeed img{
 	object-fit: cover;
 	position: absolute;
 	width: 100%;
@@ -19,6 +19,6 @@
         margin: 8px;
 }
 
-.instafeed a img:hover {
+.instafeed img:hover {
 	opacity: 0.7;
 }
