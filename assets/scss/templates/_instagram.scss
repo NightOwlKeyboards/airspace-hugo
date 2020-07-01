@@ -5,11 +5,11 @@
 	cursor: pointer;
 }
 
-.left-arrow .inline-svg {
+.left-arrow:before {
 	fill: #333333;
 }
 
-.left-arrow a:hover{
+.left-arrow:before a:hover{
 	fill: #000;
 }
 
