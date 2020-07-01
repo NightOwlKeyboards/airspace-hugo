@@ -21,8 +21,8 @@ $(document).ready(function() {
 				infinite: true,
 				arrows: true,
 				appendArrows: ".instagram-frame",
-				prevArrow:"<button type='button' class='slick-prev pull-left'><i class='fas fa-caret-left' aria-hidden='true'></i></button>",
-            			nextArrow:"<button type='button' class='slick-next pull-right'><i class='fas fa-caret-right' aria-hidden='true'></i></button>",
+				prevArrow:"<button type='button' class='slick-prev pull-left'><i class='ion-backward-arrow' aria-hidden='true'></i></button>",
+            			nextArrow:"<button type='button' class='slick-next pull-right'><a>{{ partial "fontawesome.html" "facebook" }}</a></button>",
 				responsive: [
 			{
 			      	breakpoint: 1024,
