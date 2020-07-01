@@ -20,7 +20,6 @@ $(document).ready(function() {
 				slidesToScroll: 3,
 				infinite: true,
 				arrows: true,
-				appendArrows: ".instagram-frame",
 				prevArrow: '.left-arrow',
             			nextArrow: '.right-arrow',
 				responsive: [
