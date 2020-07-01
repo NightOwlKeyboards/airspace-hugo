@@ -22,7 +22,7 @@ $(document).ready(function() {
 				arrows: true,
 				appendArrows: ".instagram-frame",
 				prevArrow:"<button type='button' class='slick-prev pull-left'><i class='ion-backward-arrow' aria-hidden='true'></i></button>",
-            			nextArrow:"<button type='button' class='slick-next pull-right'><a>{{ partial "fontawesome.html" "facebook" }}</a></button>",
+            			nextArrow:"<button type='button' class='slick-next pull-right'><a></a></button>",
 				responsive: [
 			{
 			      	breakpoint: 1024,
