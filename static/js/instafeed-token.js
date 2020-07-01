@@ -21,7 +21,7 @@ $(document).ready(function() {
 				infinite: true,
 				arrows: true,
 				prevArrow: '<button class="slide-arrow left-arrow"></button>',
-            			nextArrow: '.slide arrow .right-arrow',
+            			nextArrow: $('.right-arrow'),
 				responsive: [
 			{
 			      	breakpoint: 1024,
