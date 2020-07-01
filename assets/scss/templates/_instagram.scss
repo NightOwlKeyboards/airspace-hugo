@@ -5,15 +5,15 @@
 	cursor: pointer;
 }
 
-.left-arrow:before {
+.left-arrow::before {
 	fill: #333333;
 }
 
-.left-arrow:before a:hover{
+.left-arrow::before a:hover{
 	fill: #000;
 }
 
-.left-arrow:hover {
+.left-arrow::before:hover {
 	fill: #000;
 }
 
