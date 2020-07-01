@@ -1,11 +1,6 @@
-.slide-arrow{
-	position: absolute;
-	top: 50%;
-	margin-top: -15px;
-}
-
 .left-arrow {
 	cursor: pointer;
+	top: 50%;
 }
 
 .left-arrow:hover {
@@ -14,6 +9,8 @@
 
 .right-arrow {
 	cursor: pointer;
+	top: -50%;
+	float: right;
 }
 
 .right-arrow:hover {
