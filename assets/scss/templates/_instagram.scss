@@ -1,5 +1,5 @@
 .slick-prev:before { 
-	content: "\e257"; 
+	content: url("{{ partial "fontawesome.html" .Pre }}");
 }
 .slick-next:before { 
 	content: "\e258"; 
