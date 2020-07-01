@@ -20,7 +20,7 @@ $(document).ready(function() {
 				slidesToScroll: 3,
 				infinite: true,
 				arrows: true,
-				prevArrow: '<button class="slide-arrow left-arrow"></button>',
+				prevArrow: $('.slide-arrow .left-arrow'),
             			nextArrow: $('.right-arrow'),
 				responsive: [
 			{
