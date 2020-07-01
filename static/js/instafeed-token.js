@@ -21,8 +21,8 @@ $(document).ready(function() {
 				infinite: true,
 				arrows: true,
 				appendArrows: ".instagram-frame",
-				prevArrow:"<button type='button' class='slick-prev pull-left'><i class='ion-backward-arrow' aria-hidden='true'></i></button>",
-            			nextArrow:"<button type='button' class='slick-next pull-right'><a></a></button>",
+				prevArrow:"<button type='button' class='slick-prev pull-left'><i class='ion-backward' aria-hidden='true'></i></button>",
+            			nextArrow:"<button type='button' class='slick-next pull-right'><i class='inline-svg'></i></button>",
 				responsive: [
 			{
 			      	breakpoint: 1024,
