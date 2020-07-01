@@ -1,3 +1,9 @@
+.slick-prev:before { 
+	content: "\e257"; 
+}
+.slick-next:before { 
+	content: "\e258"; 
+}
 
 .instagram-feed a {
 	position: relative;
