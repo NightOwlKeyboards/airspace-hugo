@@ -2,12 +2,22 @@
 	position: relative;
   	top: -60%;
   	float: left;
+	cursor: pointer;
+}
+
+.left-arrow:hover {
+	color: 'ffffff';
 }
 
 .right-arrow {
   	position: relative;
   	top: -60%;
   	float: right;
+	cursor: pointer;
+}
+
+.right-arrow:hover {
+
 }
 
 .instagram-feed a {
