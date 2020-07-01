@@ -5,15 +5,7 @@
 	cursor: pointer;
 }
 
-.left-arrow::before {
-	fill: #333333;
-}
-
-.left-arrow::before a:hover{
-	fill: #000;
-}
-
-.left-arrow::before:hover {
+.left-arrow:hover {
 	fill: #000;
 }
 
@@ -24,8 +16,12 @@
 	cursor: pointer;
 }
 
-.right-arrow:hover {
+.right-arrow a:hover {
 	fill: #000;
+}
+
+.instagram-frame {
+	width: 100%;	
 }
 
 .instagram-feed a {
