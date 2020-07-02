@@ -1,7 +1,7 @@
 .left-arrow {
 	cursor: pointer;
 	position: absolute;
-	top: -50%;
+	top: 50%;
 	&:hover {
 		path{fill: #000;}
 	}
@@ -15,7 +15,7 @@
 
 .right-arrow {
 	cursor: pointer;
-	
+	position: absolute;
 	top: -50%;
 	float: right;
 	path{
