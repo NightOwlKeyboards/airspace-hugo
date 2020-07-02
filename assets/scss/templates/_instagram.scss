@@ -9,6 +9,10 @@
 	padding-right: 4px;
 }
 
+.slick-slide {
+	padding: 0 4px;
+}
+
 .left-arrow {
 	cursor: pointer;
 	position: absolute;
@@ -49,8 +53,6 @@
 	height: 100%;
 	top: 0;
 	left: 0;
-	padding-left: 4px;
-	padding-right: 4px;
 }
 
 .instagram-feed a img:hover {
