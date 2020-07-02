@@ -1,9 +1,12 @@
 .left-arrow {
 	cursor: pointer;
-	top: 50%;
+	top: -50%;
+	path{
+		fill: #5C5C5C;
+	}
 	path:hover {
-	fill: #000;
-}
+		fill: #000;
+	}
 }
 
 .right-arrow {
