@@ -7,7 +7,7 @@
 	cursor: pointer;
 	position: absolute;
 	top: 50%;
-	left: -2%;
+	left: 0px;
 	&:hover {
 		path{fill: #000;}
 	}
@@ -23,7 +23,7 @@
 	cursor: pointer;
 	position: absolute;
 	top: 50%;
-	right: -2%;
+	right: 0px;
 	path{
 		fill: #5C5C5C;
 	}
