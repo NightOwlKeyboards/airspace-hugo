@@ -4,13 +4,3 @@
 {{- $fill:="<path fill=\"currentColor\"" -}}
 {{ replace (readFile $fname) $path $fill | safeHTML }}
 </span>
-
-<style>
-.inline-svg {
-  display: inline-block;
-  height: 1.75rem;
-  width: 1.75rem;
-  top: -0.15rem;
-  position: relative;
-}
-</style>
