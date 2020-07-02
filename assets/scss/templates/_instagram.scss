@@ -4,12 +4,16 @@
 	padding-right: 20px;
 }
 
-.instafeed {
+.slick-slider {
 	overflow: hidden;
 }
 
+.slick-list {
+	margin: 0 -4px;
+}
+
 .slick-slide {
-	padding: 0 4px;
+	margin: 0 4px;
 }
 
 .left-arrow {
