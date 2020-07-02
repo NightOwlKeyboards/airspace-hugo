@@ -7,6 +7,19 @@
 	fill: #000;
 }
 
+.left-arrow a {
+	cursor: pointer;
+	top: 50%;
+}
+
+.left-arrow a:hover {
+	fill: #000;
+}
+
+.left-arrow a img:hover {
+	fill: #000;
+}
+
 .right-arrow {
 	cursor: pointer;
 	top: -50%;
