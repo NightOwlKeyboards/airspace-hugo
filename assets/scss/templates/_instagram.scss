@@ -1,7 +1,10 @@
 .left-arrow {
 	cursor: pointer;
-	position: relative;
+	position: absolute;
 	top: -50%;
+	&:hover {
+		path{fill: #000;}
+	}
 	path{
 		fill: #5C5C5C;
 	}
