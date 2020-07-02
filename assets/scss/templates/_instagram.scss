@@ -2,7 +2,7 @@
 	cursor: pointer;
 	position: absolute;
 	top: 50%;
-	left: -3%;
+	left: -2%;
 	&:hover {
 		path{fill: #000;}
 	}
@@ -16,9 +16,9 @@
 
 .right-arrow {
 	cursor: pointer;
-	position: relative;
+	position: absolute;
 	top: 50%;
-	right: -3%;
+	right: -2%;
 	path{
 		fill: #5C5C5C;
 	}
@@ -46,7 +46,7 @@
 	height: 100%;
 	top: 0;
 	left: 0;
-        margin: 8px;
+        margin-right: 8px;
 }
 
 .instagram-feed a img:hover {
