@@ -1,37 +1,15 @@
 .left-arrow {
 	cursor: pointer;
 	top: 50%;
-}
-
-.left-arrow path:hover {
+	path:hover {
 	fill: #000;
 }
-
-path:hover {
-	fill: #000;
-}
-
-.left-arrow a {
-	cursor: pointer;
-	top: 50%;
-}
-
-.left-arrow a:hover {
-	fill: #000;
-}
-
-.left-arrow a img:hover {
-	fill: #000;
 }
 
 .right-arrow {
 	cursor: pointer;
 	top: -50%;
 	float: right;
-}
-
-.right-arrow:hover {
-	fill: #000;
 }
 
 .instagram-frame {
