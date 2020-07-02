@@ -8,14 +8,11 @@
 	position: absolute;
 	top: 55%;
 	left: 0px;
-	&:hover {
-		path{fill: #000;}
-	}
 	path{
 		fill: #5C5C5C;
 	}
-	path:hover {
-		fill: #000;
+	&:hover, &:focus, &:active {
+		path{fill: #000;}
 	}
 }
 
@@ -27,8 +24,8 @@
 	path{
 		fill: #5C5C5C;
 	}
-	path:hover {
-		fill: #000;
+	&:hover, &:focus, &:active {
+		path{fill: #000;}
 	}
 }
 
