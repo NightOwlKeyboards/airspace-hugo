@@ -35,6 +35,9 @@
       border: none;
       color: #fff;
       font-size: 18px;
+      &:hover {
+        color: #000;
+      }
     }
   }
 }
