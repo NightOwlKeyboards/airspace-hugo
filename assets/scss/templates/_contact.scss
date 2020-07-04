@@ -37,7 +37,7 @@
       font-size: 18px;
       @include transition (all, 0.2s, ease);
       &:hover {
-        background: darken(20%);
+        background: darken(#47424C, 20%);
       }
     }
   }
