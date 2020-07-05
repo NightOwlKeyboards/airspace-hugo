@@ -60,13 +60,11 @@ MX Version:
   3. F13 WinKey
   4. F13 WKL
 * Universal Bottom
-* USB-C Daughterboard (Unified)
+* Polished Stainless Steel Weight
 * MX Compatible Plate
 * Custom Molded U-Gaskets for Plate
 * Custom Molded Feet
-* PCB (optional)
-
- 
+* PCB with USB-C Daughterboard (Unified) \[optional\]
 
 {{< /column >}}
 
@@ -76,11 +74,10 @@ Novatouch Version:
 
 * Novatouch Compatible Top
 * Universal Bottom
+* Polished Stainless Steel Weight
 * USB-C Daughterboard (NTA v1.0)
 * Custom Die-Cut Gaskets
 * Custom Molded Feet
-
- 
 
 {{< /column >}}
 
