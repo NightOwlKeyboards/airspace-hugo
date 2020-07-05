@@ -66,6 +66,8 @@ MX Version:
 * Custom Molded Feet
 * PCB with USB-C Daughterboard (Unified) \[optional\]
 
+&nbsp;
+
 {{< /column >}}
 
 {{< column >}}
@@ -78,6 +80,8 @@ Novatouch Version:
 * USB-C Daughterboard (NTA v1.0)
 * Custom Die-Cut Gaskets
 * Custom Molded Feet
+
+&nbsp;
 
 {{< /column >}}
 
