@@ -41,7 +41,7 @@
           <p>{{ .content | markdownify }}</p>
           {{ if .button.enable }}
           {{ with .button }}
-          <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp">{{ .label }}</a>
+          <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp" target="_blank">{{ .label }}</a>
           {{ end }}
           {{ end }}
         </div>
