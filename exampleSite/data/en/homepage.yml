@@ -10,18 +10,18 @@ banner:
     label: Browse Projects
     link: projects
 about:
-  enable: false
-  title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
-  image: images/wrapper-img.png
+  enable: true
+  title: Gemini Group Buy - Raffle Live Saturday July 25th 10:00AM - 10:00 PM CDT
+  description: ''
+  content: |-
+    We have a date! The Gemini Group Buy will take place on Saturday, July 25th via a time limited raffle. The entry form will be open for 12 hours, from 10:00 AM CDT to 10:00 PM CDT. (08:00 PDT, 11:00 EDT)
+
+    There will be a limit of 50 boards for this initial run. Shipping will be restricted to North America only unfortunately due to the pandemic. If you have a U.S.-based proxy, feel free to enter.
+  image: https://imgur.com/N5PG6Fy.jpg
+  button:
+    enable: true
+    label: More Info
+    link: https://www.reddit.com/r/mechmarket/comments/hq57q9/ic_gemini_tkl_update_3_group_buy_information/
 portfolio:
   enable: true
   bg_image: ''
