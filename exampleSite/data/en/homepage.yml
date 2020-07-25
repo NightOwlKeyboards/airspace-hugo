@@ -14,14 +14,14 @@ about:
   title: Gemini Group Buy - Raffle Live Saturday July 25th 10:00AM - 10:00 PM CDT
   description: ''
   content: |-
-    We have a date! The Gemini Group Buy will take place on Saturday, July 25th via a time limited raffle. The entry form will be open for 12 hours, from 10:00 AM CDT to 10:00 PM CDT. (08:00 PDT, 11:00 EDT)
+    The Gemini Group Buy Raffle is LIVE! The entry form will be open for 12 hours, from 10:00 AM CDT to 10:00 PM CDT. (08:00 PDT, 11:00 EDT)
 
     There will be a limit of 50 boards for this initial run. Shipping will be restricted to North America only unfortunately due to the pandemic. If you have a U.S.-based proxy, feel free to enter.
   image: "/images/gemini_tkl_8008.jpg"
   button:
     enable: true
-    label: More Info
-    link: https://www.reddit.com/r/mechmarket/comments/hq57q9/ic_gemini_tkl_update_3_group_buy_information/
+    label: Raffle Entry Form
+    link: https://forms.gle/BeUMKAEkEMxXVTYT6
 portfolio:
   enable: true
   bg_image: ''
