@@ -10,7 +10,7 @@ banner:
     label: Browse Projects
     link: projects
 about:
-  enable: true
+  enable: false
   title: Gemini Group Buy - Raffle Live Saturday July 25th 10:00AM - 10:00 PM CDT
   description: ''
   content: |-
